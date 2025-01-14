@@ -46,7 +46,7 @@ Throughout the program, I had the opportunity to actively participate in eight f
 ### :zap: [Completion Badge]
 <img align="center" src="https://raw.githubusercontent.com/Parth-yangandul/Applied-Data-Science-Lab/refs/heads/main/applied-data-science-lab.2.png" width="250">
 <br>
-###  **NOTE**: *The code content of the projects will not be uploaded due to copyright issues.*
+NOTE: The code content of the projects will not be uploaded due to copyright issues.
 
 <br>
 
