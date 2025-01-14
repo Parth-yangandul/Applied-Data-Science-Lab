@@ -51,5 +51,4 @@ NOTE: The code content of the projects will not be uploaded due to copyright iss
 <br>
 
 ### ***Let's connect:*** 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/parth-yangandul)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-yangandul)
