@@ -43,7 +43,7 @@ Throughout the program, I had the opportunity to actively participate in eight f
 > Developed a GARCH time series model to forecast asset volatility, retrieved stock data via an API, cleaned and stored the data in a SQLite database and lastly constructed an API to deliver model predictions.
 <br>
 
-### :zap: [Completion Badge](https://images.credly.com/images/876b01ef-23aa-4a29-b6d2-56c230b89935/image.png)
+### :zap: [Completion Badge](https://github.com/Parth-yangandul/Applied-Data-Science-Lab/blob/main/applied-data-science-lab.2.png)
 
 <img align="center" src="https://images.credly.com/size/340x340/images/42780b1f-a849-40e0-88a8-de3ab38adc52/image.png" width="400">
 <br>
